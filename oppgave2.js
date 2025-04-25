@@ -23,7 +23,7 @@ function regnTall() {
         document.getElementById("sum2").innerHTML = kelvin + " grader Kelvin"
 
 
-    } else {
+    } else { //Kelvin
         let fahrenreit = verdi * 9/5 - 459.67
         let celsius = verdi - 273.15
 
